@@ -1,20 +1,27 @@
-```markdown
-# Shivam Khatri 👋
+<h1 align="center">Hi 👋 I'm Shivam Khatri</h1>
+<h3 align="center">Head of Logistics | DIY Neuroscience Enthusiast | Content Creator</h3>
 
-As the Head of Logistics at **[Upside Down Labs](https://upsidedownlabs.tech/)**, I play a key role in ensuring the efficient flow of resources for our mission to make neuroscience accessible to all. We specialise in developing affordable, open-source DIY kits for Brain-Computer Interface (BCI) and Human-Computer Interface (HCI) applications, making the study of biopotential signals (EEG, EMG, ECG, EOG) accessible to students, researchers, and enthusiasts.
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/205499/screenshots/16113547/media/d87e2c99b3538a08b86b51ce736bfc28.gif">
 
-My professional interests also span:
+### 🚀 About Me
+- 🎯 **Head of Logistics @ [Upside Down Labs](https://upsidedownlabs.tech/):** I manage the efficient flow of resources for our mission to democratize neuroscience through affordable, open-source DIY kits for Brain-Computer Interface (BCI) and Human-Computer Interface (HCI) applications.
+- 🧠 **DIY Neuroscience Enthusiast:** Deeply engaged in hands-on development and exploration within the open-source neurotechnology space, focused on biopotential signals (EEG, EMG, ECG, EOG).
+- ✍️ **Content Creator:** I develop informative and engaging content to foster knowledge sharing and community growth in tech and neuroscience.
+- 💡 **Technological Explorer:** Continuously exploring emerging technologies and their potential for innovation and practical application.
 
-* **DIY Neuroscience:** Actively engaged in hands-on development and exploration within the open-source neurotechnology space.
-* **Content Creation:** Developing informative and engaging content to foster knowledge sharing and community growth in tech and neuroscience.
-* **Technological Exploration:** Continuously exploring emerging technologies and their potential for innovation and practical application.
-
-Beyond our educational kits, Upside Down Labs offers comprehensive hardware development services, from PCB design and prototyping to engineering consultation and mass production.
+At Upside Down Labs, we also provide comprehensive hardware development services, from PCB design and prototyping to engineering consultation and mass production.
 
 ---
 
-### Connect with me:
+### 🌐 Connect with Me:
+<p align="left">
+<a href="https://www.linkedin.com/in/shivam-khatri112/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-khatri112" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shivam_khatri_007/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="shivam_khatri_007" height="30" width="40" /></a>
+</p>
 
-* **Instagram:** [@shivam\_khatri\_007](https://www.instagram.com/shivam_khatri_007/) 📸
-* **LinkedIn:** [Shivam Khatri](https://www.linkedin.com/in/shivam-khatri112/) 👔
-```
+---
+
+### 📊 GitHub Stats:
+---
+
+💡 *Always learning, building, and exploring new frontiers in tech and neuroscience!* 🚀
