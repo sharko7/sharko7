@@ -21,7 +21,4 @@ At Upside Down Labs, we also provide comprehensive hardware development services
 
 ---
 
-### 📊 GitHub Stats:
----
-
 💡 *Always learning, building, and exploring new frontiers in tech and neuroscience!* 🚀
